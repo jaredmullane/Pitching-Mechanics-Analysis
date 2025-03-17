@@ -10,6 +10,10 @@ A web application that analyzes baseball pitching mechanics using computer visio
 - Visual feedback and recommendations
 - Modern, responsive web interface
 
+## Demo
+
+![Demo of Pitching Mechanics Analyzer](Demo.png)
+
 ## Tech Stack
 
 - Frontend: React.js
